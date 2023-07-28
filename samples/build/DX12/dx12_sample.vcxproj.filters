@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\DX12\src\Sample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\DX12\src\AppRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\DX12\src\UIRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\DX12\src\DeviceResources.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\DX12\src\NVScaler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\DX12\src\NVSharpen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\DX12\src\BilinearUpscale.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\common\Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\third_party\imgui\backends\imgui_impl_dx12.cpp">
+      <Filter>external</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\third_party\imgui\backends\imgui_impl_win32.cpp">
+      <Filter>external</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\third_party\imgui\imgui.cpp">
+      <Filter>external</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\third_party\imgui\imgui_demo.cpp">
+      <Filter>external</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\third_party\imgui\imgui_draw.cpp">
+      <Filter>external</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\third_party\imgui\imgui_tables.cpp">
+      <Filter>external</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\third_party\imgui\imgui_widgets.cpp">
+      <Filter>external</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\third_party\tinyexr\deps\miniz\miniz.c">
+      <Filter>external</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\DX12\include\AppRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\DX12\include\DeviceResources.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\DX12\include\NVScaler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\DX12\include\NVSharpen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\DX12\include\UIRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\DX12\include\BilinearUpscale.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\DX12\include\DXUtilities.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\DX12\include\d3dx12.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\NIS\NIS_Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\common\Image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\common\Utilities.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\NIS\NIS_Scaler.h">
+      <Filter>shaders</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\NIS\NIS_Main.hlsl">
+      <Filter>shaders</Filter>
+    </Content>
+    <Content Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\DX12\src\bilinearUpscale.hlsl">
+      <Filter>shaders</Filter>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{91A1A546-4CA8-396C-8CA1-D50F73B1BFD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9ECF9B37-619C-3F6A-8A12-41D9CED21225}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="external">
+      <UniqueIdentifier>{B4C021A7-1F69-3259-8E51-65A40908E7BC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{03426BCA-2C0C-3B3A-AF35-FA527992DAE6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
