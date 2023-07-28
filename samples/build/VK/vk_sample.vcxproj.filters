@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\VK\src\AppRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\VK\src\DeviceResources.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\VK\src\NVScaler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\VK\src\NVSharpen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\VK\src\Sample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\common\Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\VK\src\UIRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\third_party\imgui\backends\imgui_impl_vulkan.cpp">
+      <Filter>external</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\third_party\imgui\backends\imgui_impl_glfw.cpp">
+      <Filter>external</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\third_party\imgui\imgui.cpp">
+      <Filter>external</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\third_party\imgui\imgui_demo.cpp">
+      <Filter>external</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\third_party\imgui\imgui_draw.cpp">
+      <Filter>external</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\third_party\imgui\imgui_tables.cpp">
+      <Filter>external</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\third_party\imgui\imgui_widgets.cpp">
+      <Filter>external</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\third_party\tinyexr\deps\miniz\miniz.c">
+      <Filter>external</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\VK\include\AppRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\VK\include\DeviceResources.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\VK\include\NVScaler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\VK\include\NVSharpen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\VK\include\UIRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\VK\include\VKUtilities.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\common\Utilities.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{91A1A546-4CA8-396C-8CA1-D50F73B1BFD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9ECF9B37-619C-3F6A-8A12-41D9CED21225}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="external">
+      <UniqueIdentifier>{B4C021A7-1F69-3259-8E51-65A40908E7BC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

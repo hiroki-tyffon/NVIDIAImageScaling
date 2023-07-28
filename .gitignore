@@ -11,8 +11,8 @@ cmake_install.cmake
 Makefile
 
 # VS
-*.vcxproj*
-*.sln
+#*.vcxproj*
+#*.sln
 .vs/
 
 # VS Code
@@ -29,10 +29,10 @@ Makefile
 # Library
 *.lib
 *.exp
-*.dll
-*.pdb
-*.so
-*.so.*
+#*.dll
+#*.pdb
+#*.so
+#*.so.*
 *.a
 
 # except for third-party lib files
@@ -46,5 +46,5 @@ compile_commands.json
 *.log
 
 # packaged SDK
-samples/build
-samples/bin
+# samples/build
+# samples/bin

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\build\CMakeFiles\85eb59436eebd83fa38197520d1464f4\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\third_party\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\third_party\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Tyffon\Repositories\ExpoC\NVIDIAImageScaling\samples\build\third_party\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E9F6F497-FF2B-304E-955E-BC9CCD98BCE5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{91A1A546-4CA8-396C-8CA1-D50F73B1BFD9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
